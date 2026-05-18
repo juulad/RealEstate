@@ -8,7 +8,15 @@ If GitHub Pages is enabled for this repository, open:
 
 https://juulad.github.io/RealEstate/
 
-If that link does not load yet:
+If that link returns 404, enable GitHub Pages once:
+
+1. Open the repository settings on GitHub.
+2. Go to **Pages**.
+3. Under **Build and deployment**, choose **Deploy from a branch**.
+4. Choose branch **gh-pages** and folder **/**.
+5. Save, then wait a minute or two and reopen the link above.
+
+If you do not want to enable Pages:
 
 1. Open the GitHub repository.
 2. Click the green **Code** button.
