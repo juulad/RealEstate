@@ -185,7 +185,7 @@ select:focus {
 
 .summary {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 0.5rem;
   padding: 1rem;
   border-bottom: 1px solid var(--line);
@@ -340,10 +340,60 @@ select:focus {
   white-space: nowrap;
 }
 
-.sold-marker {
+.land-marker {
+  display: block;
   border: 2px solid #fff;
-  border-radius: 999px;
   box-shadow: 0 2px 8px rgba(23, 33, 43, 0.35);
+}
+
+.sold-marker {
+  border-radius: 999px;
+}
+
+.active-marker {
+  border-radius: 5px;
+  transform: rotate(45deg);
+}
+
+.land-marker-wrap {
+  background: transparent;
+  border: 0;
+}
+
+.status-dot {
+  display: inline-block;
+  width: 0.62rem;
+  height: 0.62rem;
+  margin-right: 0.35rem;
+  border-radius: 999px;
+  vertical-align: -0.03rem;
+}
+
+.status-dot.active {
+  background: #1b7f9c;
+}
+
+.status-dot.sold {
+  background: #c75b12;
+}
+
+.status-pill {
+  display: inline-block;
+  margin-right: 0.45rem;
+  border-radius: 999px;
+  padding: 0.12rem 0.42rem;
+  color: #fff;
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  vertical-align: 0.08rem;
+}
+
+.status-pill.active {
+  background: #1b7f9c;
+}
+
+.status-pill.sold {
+  background: #c75b12;
 }
 
 .heat-canvas {
@@ -355,16 +405,47 @@ select:focus {
   line-height: 1.25;
 }
 
+.legend-row {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 0.2rem;
+}
+
+.legend-symbol {
+  display: inline-block;
+  width: 0.75rem;
+  height: 0.75rem;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(23, 33, 43, 0.25);
+}
+
+.legend-symbol.active {
+  background: #1b7f9c;
+  border-radius: 3px;
+  transform: rotate(45deg);
+}
+
+.legend-symbol.sold {
+  background: #c75b12;
+  border-radius: 999px;
+}
+
 .legend-bar {
   height: 9px;
   width: 160px;
   margin: 0.35rem 0;
   border-radius: 999px;
-  background: linear-gradient(90deg, #2c7bb6, #00a676, #f4d35e, #d95f02, #b2182b);
+  background: linear-gradient(90deg, #55c2c3, #1b7f9c, #f4b942, #c75b12);
 }
 
 .missing-note {
   color: var(--warn);
+}
+
+.accuracy-note {
+  color: var(--muted);
+  font-size: 0.78rem;
 }
 
 @media (max-width: 860px) {

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Sold Land Heatmap</title>
+    <title>Active + Sold Land Map</title>
     <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
     <link rel="stylesheet" href="styles.css">
@@ -30,11 +30,19 @@
       <aside class="side-panel">
         <header class="panel-header">
           <p class="eyebrow">Door County</p>
-          <h1>Sold Land Heatmap</h1>
+          <h1>Active + Sold Land Map</h1>
           <p id="dataStatus" class="data-status"></p>
         </header>
 
         <section class="filters" aria-label="Filters">
+          <label>
+            Dataset
+            <select id="datasetMode" aria-label="Dataset view">
+              <option value="both">Active + sold</option>
+              <option value="active">Active only</option>
+              <option value="sold">Sold only</option>
+            </select>
+          </label>
           <label>
             Search
             <input id="searchInput" type="search" placeholder="MLS, PIN, town, zoning">
@@ -49,18 +57,18 @@
               <input id="maxAcres" type="number" min="0" step="0.1">
             </label>
             <label>
-              Min sold $
+              Min price $
               <input id="minPrice" type="number" min="0" step="1000">
             </label>
             <label>
-              Max sold $
+              Max price $
               <input id="maxPrice" type="number" min="0" step="1000">
             </label>
           </div>
           <label>
             Color by
             <select id="colorMetric">
-              <option value="soldPrice">Sold price</option>
+              <option value="displayPrice">Sale/list price</option>
               <option value="pricePerAcre">Price per acre</option>
               <option value="acres">Acres</option>
               <option value="daysOnMarket">Days on market</option>
@@ -69,9 +77,10 @@
         </section>
 
         <section class="summary" aria-label="Visible summary">
-          <div><strong id="visibleCount">0</strong><span>visible sales</span></div>
-          <div><strong id="medianPrice">$0</strong><span>median sold</span></div>
+          <div><strong id="visibleCount">0</strong><span>visible rows</span></div>
+          <div><strong id="medianPrice">$0</strong><span>median price</span></div>
           <div><strong id="medianPpa">$0</strong><span>median $/acre</span></div>
+          <div><strong id="activeCount">0 active / 0 sold</strong><span>overlay mix</span></div>
         </section>
 
         <section class="details" aria-label="Selected parcel details">
@@ -79,9 +88,9 @@
           <div id="detailPanel" class="empty-state">Click a point or list row to view parcel details.</div>
         </section>
 
-        <section class="results" aria-label="Sold parcel results">
+        <section class="results" aria-label="Land parcel results">
           <div class="results-header">
-            <h2>Sold Parcels</h2>
+            <h2 id="resultsTitle">Active + Sold Parcels</h2>
             <button id="clearFilters" type="button">Clear</button>
           </div>
           <div id="resultsList" class="results-list"></div>
@@ -92,7 +101,7 @@
     <script src="vendor/leaflet/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="data/sold_parcels.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/juulad/RealEstate@gh-pages/data/sold_parcels.js"></script>
+    <script src="data/active_land.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

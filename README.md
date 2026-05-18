@@ -2,7 +2,7 @@
 
 This repo stores the Door County, Wisconsin land analysis for evaluating development opportunities, especially the strategy of buying larger rural parcels, subdividing or rezoning them, and reselling smaller buildable lots.
 
-## Open The Sold Land Map
+## Open The Land Map
 
 If GitHub Pages is enabled for this repository, open:
 
@@ -29,11 +29,16 @@ The map is fully static. It does not need a build step, server, login, or API ke
 ## Map Features
 
 - 123 matched sold land parcels from the source data
+- 72 active land listings from `active_clean.csv`
+- Dataset toggle for active only, sold only, or active + sold overlay
 - Map and satellite basemap views
-- Heat overlay weighted by the selected metric
-- Point markers and optional parcel outlines
-- Search and filters for acres, sold price, MLS, PIN, town, zoning, and remarks
+- Two-color heat overlay, with active listings in blue and sold listings in amber
+- Active listings as blue diamonds and sold parcels as amber circles
+- Optional sold parcel outlines
+- Search and filters for acres, price, MLS, PIN, town, zoning, and remarks
 - Click-in parcel details
+
+Note: the active listing source does not include parcel numbers, and only one active row includes explicit coordinates in the remarks. The current active map points are therefore approximate by area except where the listing itself supplied coordinates. Sold parcels remain matched to exact parcel geometry where possible.
 
 ## Local Preview
 
@@ -51,8 +56,9 @@ Opening `index.html` directly also works in most browsers, but the local server 
 
 ## Contents
 
-- `index.html`, `styles.css`, `app.js` - static sold land map app.
+- `index.html`, `styles.css`, `app.js` - static land map app.
 - `data/sold_parcels.js` - geocoded sold parcel data used by the map.
+- `data/active_land.js` - active listing data used by the map.
 - `data/raw/active_clean.csv` - cleaned active land listing data.
 - `data/raw/sold_clean.csv` - cleaned sold land listing data.
 - `data/raw/Door-County-Zoning-Ordinance.txt` - extracted zoning ordinance text for search and analysis.
