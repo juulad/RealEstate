@@ -6,7 +6,6 @@ This repo stores the Door County, Wisconsin land analysis for evaluating develop
 
 - data/raw/active_clean.csv - cleaned active land listing data.
 - data/raw/sold_clean.csv - cleaned sold land listing data.
-- data/raw/Door-County-Zoning-Ordinance.pdf - county zoning ordinance source.
 - data/raw/Door-County-Zoning-Ordinance.txt - extracted zoning ordinance text for search and analysis.
 - docs/INITIAL_FINDINGS.md - first market read and strategy memo.
 
