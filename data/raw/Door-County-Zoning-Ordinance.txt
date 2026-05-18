@@ -1,0 +1,847 @@
+Total output lines: 12970
+
+As of February 24, 2026
+
+THE DOOR COUNTY BOARD OF SUPERVISORS
+Bob Bultman
+Vinni Hancock
+David Englebert, Chair
+David Enigl
+Kenneth F. Fisher
+Elizabeth Gauger
+Joel Gunnlaugsson
+Collin Jeanquart
+Walter Kalms
+(two vacant seats)
+
+Jeffrey Miller
+Claire Morkin
+Nissa Norton
+Nancy Robillard
+Phil Rockwell
+Morgan Rusnack
+Ryan Shaw
+Todd Thayse, Vice Chair
+Dale Vogel
+Hugh Zettel
+
+DOOR COUNTY RESOURCE PLANNING COMMITTEE
+Hugh Zettel, Chair
+Kenneth Fisher, Vice-Chair
+Bob Bultman
+David Enigl
+Claire Morkin
+
+DOOR COUNTY BOARD OF ADJUSTMENT
+Bob Ryan, Chair
+Arps Horvath, Vice-Chair
+Cheryl Mick
+Monica Nelson
+Jeff Schmeckpeper
+Brian Forest – First Alternate
+Chris Anderson – Second Alternate
+
+DOOR COUNTY LAND USE SERVICES DEPARTMENT STAFF
+Karyn Behling
+Zach Ahlin
+Adam Ferrell
+Lois Goetz
+Jeff Kussow
+Tara McKeefry
+Chris Olson
+Luke Pierre
+Becky Rericha
+Linda Riemer
+Tess Trybull
+Adopted: February 28, 1995
+
+Director/Assistant Corporation Counsel
+Code Administrator
+Code Administrator
+Administrative Assistant II
+Planner
+Code Administrator
+Code Administrator
+Code Administrator
+Shared Administrative Assistant
+Administrative Assistant III
+Code Administrator
+Previous Update: August 26, 2025
+This Update: February 24, 2026
+
+Official detailed Zoning Maps are on file in the Door County Land Use Services Department
+and on the department website: https://www.co.door.wi.gov/164/Land-Use-Services
+
+DOOR COUNTY COMPREHENSIVE ZONING ORDINANCE
+TABLE OF CONTENTS
+CHAPTER 1 TITLE; AUTHORITY; AND GENERAL PROVISIONS
+1.01
+1.02
+1.03
+1.04
+1.05
+1.06
+1.07
+1.08
+1.09
+1.10
+1.11
+1.12
+1.13
+1.14
+
+Title .............................................................................................................................. 1-1
+Authority ...................................................................................................................... 1-1
+Contents ...................................................................................................................... 1-1
+Purpose ....................................................................................................................... 1-1
+Compliance ................................................................................................................. 1-2
+Force and effect........................................................................................................... 1-3
+Abrogation and greater restrictions ............................................................................. 1-3
+Interpretation and application ...................................................................................... 1-4
+Severability .................................................................................................................. 1-4
+Warning and disclaimer of liability ............................................................................... 1-4
+Vesting of rights ........................................................................................................... 1-4
+Withdrawal by zoned towns ......................................................................................... 1-5
+Commentary ................................................................................................................ 1-5
+Headings ..................................................................................................................... 1-5
+
+CHAPTER 2 ZONING DISTRICTS AND ZONING MAP; USE REGULATIONS
+2.01
+2.02
+2.03
+2.04
+2.05
+2.06
+2.07
+2.08
+
+Zoning districts ............................................................................................................ 2-1
+Zoning map ................................................................................................................. 2-1
+Purpose and intent of zoning districts .......................................................................... 2-2
+Types of uses ............................................................................................................. 2-7
+Principal uses .............................................................................................................. 2-8
+Accessory uses ......................................................................................................... 2-27
+Temporary uses ........................................................................................................ 2-27
+Uses not listed ........................................................................................................... 2-28
+
+CHAPTER 3 GENERAL REQUIREMENTS
+3.01
+3.02
+3.03
+3.04
+3.05
+3.06
+3.07
+3.08
+3.09
+3.10
+3.11
+3.12
+3.13
+3.14
+3.15
+3.16
+3.17
+
+Compliance ................................................................................................................. 3-1
+District requirements.................................................................................................... 3-1
+(Amended and relocated 5 Oct. 1998, Ord. 22-98) ..................................................... 3-9
+Lot requirements.......................................................................................................... 3-9
+Setbacks from roads.................................................................................................. 3-11
+Additional setbacks from roads for large buildings .................................................... 3-13
+(Relocated to shoreland ordinance, 20 Sept. 2016, Ords. 2016-12 & 2016-14) ....... 3-14
+Height requirements .................................................................................................. 3-14
+Front, rear, and side yards ……………………………………………………………….3-15
+Landscape buffers ..................................................................................................... 3-16
+Floor area requirements ............................................................................................ 3-20
+Accessory structures ................................................................................................. 3-21
+Outdoor storage of junk material ............................................................................... 3-24
+Filling and grading ..................................................................................................... 3-24
+Special development requirements ........................................................................... 3-25
+(Deleted 30 Sept. 2010; Ord. 2010-13) ..................................................................... 3-27
+Alleys ......................................................................................................................... 3-27
+
+Door County Zoning Ordinance
+
+i
+
+CHAPTER 3A SHORELAND ZONING REGULATIONS
+(Deleted 20 Sept. 2016; Ords. 2016-12 and 2016-14. See instead Door County Shoreland Zoning
+Ordinance.)…………………………………………………………………………………………….3-29
+CHAPTER 4 PARTICULAR USES REQUIREMENTS
+4.01
+4.02
+4.03
+4.04
+4.05
+4.06
+4.07
+4.08
+4.09
+
+Purpose ....................................................................................................................... 4-1
+Applicability.................................................................................................................. 4-1
+Agricultural uses requirements .................................................................................... 4-1
+Commercial uses requirements ................................................................................... 4-2
+Industrial uses requirements ..................................................................................... 4-10
+Institutional uses requirements .................................................................................. 4-15
+Outdoor recreational uses requirements ................................................................... 4-16
+Residential uses requirements .................................................................................. 4-21
+Miscellaneous uses requirements ............................................................................. 4-34
+
+CHAPTER 5 NATURAL FEATURES PROTECTION REQUIREMENTS
+5.01
+5.02
+5.03
+5.04
+5.05
+5.06
+5.07
+5.08
+5.09
+5.10
+
+Purpose ....................................................................................................................... 5-1
+Applicability.................................................................................................................. 5-1
+Escarpments ............................................................................................................... 5-1
+Drumlins ...................................................................................................................... 5-3
+Dunes .......................................................................................................................... 5-3
+Rockholes .................................................................................................................... 5-4
+Woodlands .................................................................................................................. 5-5
+Ridges and swales complexes .................................................................................... 5-7
+(Relocated to shoreland ordinance, 20 Sept. 2016; Ords. 2016-12 and 2016-14) ...... 5-8
+Wetland setbacks ........................................................................................................ 5-8
+
+CHAPTER 6 Conservation Subdivision
+6.01
+6.02
+6.03
+6.04
+
+Purpose ....................................................................................................................... 6-1
+General requirements .................................................................................................. 6-1
+Preserved open space ................................................................................................ 6-3
+Application and permit requirements ........................................................................... 6-4
+
+CHAPTER 7 PARKING, LOADING AND ACCESS REQUIREMENTS
+7.01
+7.02
+7.03
+7.04
+7.05
+
+Purpose ....................................................................................................................... 7-1
+Off-street parking requirements ................................................................................... 7-1
+Parking area landscaping requirements ...................................................................... 7-8
+Loading and unloading requirements ........................................................................ 7-13
+Access requirements ................................................................................................. 7-13
+
+Door County Zoning Ordinance
+
+ii
+
+CHAPTER 8 SIGNS
+8.01
+8.02
+8.03
+8.04
+8.05
+8.06
+8.07
+8.08
+8.09
+
+Authority Cited ............................................................................................................. 8-1
+Finding, Purpose and Intent, Severability .................................................................... 8-1
+Substitution Clause...................................................................................................... 8-2
+Applicability.................................................................................................................. 8-2
+Prohibited .................................................................................................................... 8-3
+General Regulations .................................................................................................... 8-5
+Allowances and Restriction by Use and Zoning District .............................................. 8-8
+Nonconforming Signs ................................................................................................ 8-10
+Permits ...................................................................................................................... 8-11
+
+CHAPTER 9 NONCONFORMING USES, STRUCTURES, LOTS
+9.01
+9.02
+9.03
+9.04
+
+Previously lawful condition .......................................................................................... 9-1
+Nonconforming uses ................................................................................................... 9-1
+Nonconforming structures ........................................................................................... 9-2
+Nonconforming lots...................................................................................................... 9-3
+
+CHAPTER 10 ADMINISTRATION
+10.01
+10.02
+10.03
+10.04
+
+Resource Planning Committee .................................................................................. 10-1
+Zoning Board of Adjustment ...................................................................................... 10-2
+Land Use Services Director ....................................................................................... 10-3
+Zoning Administrator ................................................................................................. 10-4
+
+CHAPTER 11 PROCEDURES
+11.01
+11.02
+11.03
+
+11.04
+11.05
+11.06
+11.07
+11.08
+11.09
+
+Regular zoning permits.............................................................................................. 11-1
+Sign permits............................................................................................................... 11-4
+Impervious surface authorization permits .................................................................. 11-5
+(Added: 20 Sept. 2016; Ord. 2016-14. Site plan review permits deleted 27 May 2008;
+Ord. 2008-04)
+Conditional use permits ............................................................................................. 11-7
+Certificate of compliance ......................................................................................... 11-11
+Variance from the requirements of this ordinance ................................................... 11-11
+Appeals.................................................................................................................... 11-14
+Amendments .......................................................................................................... 11-15
+Public hearings ........................................................................................................ 11-17
+
+CHAPTER 12 ENFORCEMENT
+12.01
+12.02
+12.03
+12.04
+
+Violations ................................................................................................................... 12-1
+Prosecution................................................................................................................ 12-1
+Penalties .................................................................................................................... 12-2
+After-the-fact conditional use applications and variance petitions…………………….12-2
+
+Door County Zoning Ordinance
+
+iii
+
+CHAPTER 13 DEFINITIONS
+13.01 Word usage……………………………………………………………………………………13-1
+13.02
+Definition ………………………………………………………………………………………13-1
+CHAPTER 14 COMMUNICATIONS SUPPORT STRUCTURES AND RELATED FACILITIES
+(Deleted 23 May 2023; Ord. 2023-01)
+
+APPENDIX A .............................................................................................................................. A-1
+
+Door County Zoning Ordinance
+
+iv
+
+TITLE; AUTHORITY 1.04(5)
+
+Note: Ordinance 2018-06 (27 March 2018) replaced all references throughout this ordinance to the
+“Door County Planning Department” with “Door County Land Use Services Department” and all
+references to the “Planning Director” with “Land Use Services Director”.
+
+CHAPTER 1
+TITLE; AUTHORITY; AND GENERAL PROVISIONS
+
+1.01 Title.
+1.02 Authority.
+1.03 Contents.
+1.04 Purpose.
+1.05 Compliance.
+1.06 Force and effect.
+1.07 Abrogation and greater restrictions.
+
+1.08 Interpretation and application.
+1.09 Severability.
+1.10 Warning and disclaimer of liability.
+1.11 Vesting of rights.
+1.12 Withdrawal by zoned towns.
+1.13 Commentary.
+1.14 Headings
+
+The County Board of Door County, Wisconsin does ordain as follows:
+1.01 Title. This Ordinance shall be known as the "Door County Comprehensive Zoning
+Ordinance", hereinafter referred to as "this Ordinance." (Amended: 20 Sept. 2016; Ord. 2016-14)
+1.02 Authority. This Ordinance is enacted pursuant to the authority granted by §§
+59.69 and 59.692, Wis. Stats.; additionally, it employs those powers or provisions provided
+for in § 59.694, Ch. 91, and § 281.31, Wis. Stats. This Ordinance shall constitute a
+comprehensive revision, as described in § 59.69(5)(d), Wis. Stats., of the 1968 Door
+County Zoning Ordinance. (Amended: 27 May 2014; Ord. 2014-10) (Amended: 20 Sept. 2016; Ord.
+2016-14)
+
+Commentary: (Added: March 1998) (Deleted: 20 Sept. 2016; Ord. 2016-14)
+
+1.03 Contents. This Ordinance consists of two distinct but inseparable and integrated
+parts: written text and zoning maps. The written text and zoning maps taken together
+constitute this Ordinance and, therefore, shall at all times be considered as interrelated
+and inseparable parts of a whole. In addition, other maps and materials referenced in the
+text are used to support this Ordinance.
+1.04 Purpose. (Deleted and recreated: 20 Sept. 2016; Ord. 2016-14) The
+Ordinance include:
+
+purposes
+
+of
+
+this
+
+(1) to promote the public health, safety, convenience, and general welfare;
+(2) to encourage planned and orderly land use development;
+(3) to protect property values and the property tax base;
+(4) to permit the careful planning and efficient maintenance of highway systems;
+(5) to ensure adequate highway, health, educational, and recreational facilities;
+(Amended: 23 May 2023; Ord. 2023-01)
+
+Door County Comprehensive Zoning Ordinance
+
+1-1
+
+TITLE; AUTHORITY 1.05(3)
+(6) to recognize the needs of agriculture, forestry, industry, and business in future
+growth;
+(7) to encourage uses of land and other natural resources which are in accordance
+with their character and adaptability;
+(8) to provide adequate light and air; (Amended: 23 May 2023; Ord. 2023-01)
+(9) to encourage the protection of groundwater resources;
+(10) to preserve wetlands;
+(11) to conserve soil, water, and forest resources;
+(12) to protect the beauty and amenities of landscape and man-made
+developments;
+(13) to provide healthy surroundings for family life; and
+(14) to promote the efficient and economical use of public funds.
+To accomplish these, and other purposes, the County Board may plan for the physical
+development and zoning of territory within Door County.
+1.05
+
+Compliance.
+
+(1) No land or water shall hereafter be used and no structure or part thereof shall
+hereafter be used, located, erected, moved, reconstructed, extended, enlarged,
+converted, or structurally altered without full compliance with the provisions of this
+Ordinance.
+(2) Unless specifically exempted by law, all cities, villages, towns, and counties are
+required to comply with this Ordinance and obtain all necessary permits in areas under
+the jurisdiction of this Ordinance.
+Construction undertaken by the State of Wisconsin (hereafter “state”) is, pursuant to
+§ 30.12(4), Wis. Stats., subject to this ordinance. This includes every building,
+structure, or facility that is constructed for the benefit of or use of the state. (Amended:
+20 Sept. 2016; Ord. 2016-14)
+
+(3) Except for principal uses in the Exclusive Agricultural zoning district and as
+described in s. 2.05(4)(c)4., Uses Pertaining to the Wetland District, the following are
+not regulated by this Ordinance and are exempt from all provisions of this
+Ordinance: (Amended: 24 Feb. 2026; Ord. 2026-02; Effective 7 April 2026)
+(a) Any structure or equipment used or designed for the production, transmission,
+delivery, or furnishing of heat, light, water, power, or sewer services; and
+(b) Mobile tower siting facilities, radio broadcast service facilities, broadband
+network projects pursuant to §196.504, Wis. Stats., and other communications
+services support structures a…99681 tokens truncated…ntained will be regarded as nonconforming.
+Provided, however, a sign constructed during the period of time following the day on which
+the Supreme Court released its opinion in Reed v. Town of Gilbert, 135 S. Ct. 2218 (June
+18, 2015) and the date the provisions of this ordinance were enacted and effective must
+not be considered a non-conforming sign unless it conformed to the regulations in effect
+on the day immediately preceding the release of the Supreme Court’s decision in Reed v.
+Town of Gilbert. (Amended: 29 October 2019; Ord. 2019-13)
+Sign, Official: A sign “erected and maintained by public officers or public agencies within
+their territorial or zoning jurisdiction and pursuant to and in accordance with direction or
+authorization contained in federal, state, or local law for the purposes of carrying out an
+official duty or responsibility.” (§Trans 201.05(d), Wis. Admin. Code) (Added: 29 October 2019;
+Ord. 2019-13)
+
+Sign, Off-Premise: A sign that pertains to goods, products, or services which are not
+sold, manufactured, or distributed on or from the premises or facilities upon which the sign
+is located or that directs attention to a specific activity, business, or event that is not
+situated or conducted on or from the premises or facilities upon which the sign is located.
+(Amended: 29 October 2019; Ord. 2019-13)
+
+Sign, On-Premise: A sign located on the same lot on which the individual, firm,
+association, corporation, profession, business, commodity, or product promoted on the
+sign is located. (Amended: 29 October 2019; Ord. 2019-13)
+Sign, Permanent: A sign whose intended use appears to be indefinite and that is
+attached or affixed to a building, window, structure, or the ground in a manner that enables
+the sign to resist environmental loads, such as wind, and that precludes ready removal of
+the sign. (Added: 29 October 2019; Ord. 2019-13)
+Sign Permit: A permit, issued by the Zoning Administrator, stating that a sign may be
+established, located, or altered subject to any conditions placed on the authorization and
+the provisions of this Ordinance.
+
+Door County Comprehensive Zoning Ordinance
+
+13-22
+
+DEFINITIONS 13.02
+Sign, Portable: Any sign that is visible from the road, sidewalk, or navigable water
+designed to be transported or moved and is not permanently attached to the ground or a
+structure or building, including flags not exempted from this ordinance. Portable signs
+differ from signs indicating limited duration or one-time event signs in that they are
+intended to be displayed indefinitely, but can be easily transported and displayed in more
+than one location. (Added: 29 October 2019; Ord. 2019-13)
+Sign, Projecting: A sign, generally oriented perpendicular to the face of a building wall,
+which is attached to a building and which extends more than 6 inches from a building wall,
+typically having two viewable sides.
+Sign, Reflective: A sign containing any material or device that has the effect of
+intensifying reflected light. (Added: 29 October 2019; Ord. 2019-13)
+Sign, Revolving: A sign that revolves in a circular motion rather than remaining stationary
+on its supporting structure. (Added: 29 October 2019; Ord. 2019-13)
+Sign, Roof: A building-mounted sign erected upon, against, or over the roof of a building.
+(Added: 29 October 2019; Ord. 2019-13)
+
+Sign Supporting Structure: Poles, posts, walls, frames, brackets, or other supports
+holding a sign in place. (Added: 29 October 2019; Ord. 2019-13)
+Sign, Two-Face: A sign with two sign faces where the interior angle formed by the
+theoretical intersection of the faces is 45 degrees or less and the faces are 18 inches or
+fewer apart. (Added: 29 October 2019; Ord. 2019-13)
+Sign, Variable Message: “An outdoor advertising sign, display or device without moving
+parts whose message may be changed by electronic process through the use of moving
+or intermittent light or lights.” (§Trans 201.15, Wis. Admin. Code) (Added: 29 October 2019;
+Ord. 2019-13)
+
+Sign, Vehicular: A sign affixed to, displayed from, or painted on a stationary motor
+vehicle, other vehicle, trailer, or semi-trailer. (Added: 29 October 2019; Ord. 2019-13)
+Sign, Wall: A sign painted on a building wall and all other signs, including signs placed on
+or over windows, oriented parallel to the face of a building wall, which are attached to a
+building wall and where no part of the structure of the sign extends more than 6 inches out
+from a wall as measured near the points of attachment to the building, nor above the roof
+of the building, nor beyond the end of a wall. (Amended: 29 October 2019; Ord. 2019-13)
+Single Family Dwelling Unit: See Dwelling Unit, Single Family.
+Single Family Residence: See Residence, Single Family.
+Site Area: The total area devoted to a conservation subdivision or of a manufactured
+home park development. (Amended: 4 April 2011; Ord. 2011-05)
+
+Door County Comprehensive Zoning Ordinance
+
+13-23
+
+DEFINITIONS 13.02
+Slope: The relationship of the change in vertical distance to the change in horizontal
+distance, expressed as a percentage.
+Solid Waste Facility: A facility or land for solid waste treatment, solid waste storage, or
+solid waste disposal, and includes commercial, industrial, municipal, state and federal
+establishments or operations such as, without limitation because of enumeration, sanitary
+landfills, dumps, incinerators, land disposal sites, transfer stations, storage facilities,
+collection and transportation services and processing, treatment and recovery facilities.
+Solid waste facility does not include a salvage yard, nor does it include “clean” dredge
+spoils, as determined by the Wisconsin Department of Natural Resources (WI DNR), or
+dredge spoils that have received “Low Hazard Exemption” from the WI DNR. (Amended: 27
+March 2018; Ord. 2018-07)
+
+Spa: A facility providing treatments for the human body including such things as steam,
+sauna, mineral pools, whirlpools, massage and facials, body wraps, scrubs, and salons.
+(Added: 30 January 2003)
+
+Special Exception: (Deleted: 24 Nov. 1998; Ord. 33-98)
+Special Exception Permit: (Deleted: 24 Nov. 1998; Ord. 33-98)
+Stoop: A platform or entrance stair at a door to a building. (Added: 25 June 1996; Ord. 16-96)
+Story: That part of a building included between the surface of a floor and the surface of
+the next floor above it, or, if there is no floor above it, then the space between the floor and
+the ceiling above it.
+Structural Alterations: Any change in the supporting members of the exterior portions of
+a building or structure, such as foundations, load-bearing walls, columns, sills, and rafters,
+or any change in the dimensions or configuration of the roof or exterior walls.
+Structural Repairs: Any repairs of the supporting members of the exterior portions of a
+building or structure, such as foundations, load-bearing wall columns, sills, and rafters.
+Structure: Anything constructed, erected, or manufactured and placed on a lot or parcel
+of land. (Note: Structures elevated off the ground via means such as blocks, trailers, or
+wheels, or similar methods or devices are considered and regulated as “structures” under
+this Ordinance) (Amended: 22 Feb. 2000; Ord. 04-00) (Amended: 24 Feb. 2026; Ord. 2026-02; Effective
+7 April 2026)
+
+Structure, Accessory: A building or other structure which is customary, incidental, and
+subordinate to a permitted principal use of a lot and located on the same lot as the
+principal use, and does not meet the definition of a principal structure.
+Structure, Permanent: (Deleted 22 Feb. 2000; Ord. 04-00)
+Structure, Principal: A building or other structure which houses a principal use of a lot,
+including any functional appurtenances, such as decks, stairways, and balconies, which
+are attached to, or located within 3 feet of, said building or structure.
+Door County Comprehensive Zoning Ordinance
+
+13-24
+
+DEFINITIONS 13.02
+Substantial Change: As defined in §84.30, Wis. Stats.: “With respect to a nonconforming
+sign, includes increasing the number of upright supports; changing the physical location;
+increasing the square footage or area of the sign face; adding changeable message
+capability; or adding illumination, either attached or unattached, to a sign that was not
+illuminated. ‘Substantial change’ does not include customary maintenance.” (Added: 29
+October 2019; Ord. 2019-13)
+
+Substantial Evidence: Facts and information, other than merely personal preferences or
+speculation, directly pertaining to the requirements and conditions an applicant must meet
+to obtain a conditional use permit and that reasonable persons would accept in support of
+a conclusion. (Added: 27 March 2018; Ord. 2018-07)
+Substantially the Same: As defined in §84.30, Wis. Stats.: “With respect to a
+nonconforming sign, means that no substantial change has been made to the sign since it
+became nonconforming.” (Added: 29 October 2019; Ord. 2019-13)
+Swale: See Ridges and Swales Complex.
+Telecommunications Towers: (Deleted: September 2015; Ord. 2015-09; Effective 9 November
+2015)
+
+Temporary Accessory Unit: A temporary dwelling unit installed on the same lot as a
+single family residence and used to provide independent, but supervised, housing for
+disabled or infirm dependent(s).
+Temporary Use: See Use, Temporary.
+Topsoil: Soil material (normally the A horizon and upper part of the B horizon of a soil
+profile) which is acceptable for respreading on the surface of regraded areas to provide a
+medium which sustains a dense plant growth capable of preventing wind and water
+erosion of the topsoil and other materials beneath.
+Tourist Rooming House: “Any lodging place or tourist cabin or cottage where sleeping
+accommodations are offered for pay to tourist or transients. ‘Tourist rooming house’ does
+not include:
+(a) A private boarding or rooming house, ordinarily conducted as such, not
+accommodating tourist or transients.
+(b) A [multiple occupancy development].
+(c)
+
+Bed and breakfast establishments.” (§97.01(15k), Wis. Stats.) (Added: 29 October
+
+2019; Ord. 2019-13)
+
+Trade or Contractors Establishment: Uses such as plumbers, heating and air
+conditioning contractors, excavators, carpenters, painting contractors, wastewater
+treatment system contractors, electricians, well drillers, and similar uses.
+
+Door County Comprehensive Zoning Ordinance
+
+13-25
+
+DEFINITIONS 13.02
+Trailer: A portable structure built on a chassis which can be towed by an appropriate
+motor vehicle and is designated to be used as a temporary dwelling for travel, recreation,
+or vacation use, and which does not fall into the definition of a manufactured home.
+Trailer Camp: (Deleted: 27 August 2019; Ord. 2019-08; Effective 7 October 2019)
+Transient: A person who travels from place to place away from his or her permanent
+address for vacation, pleasure, recreation, culture, or business.
+Tree: Woody vegetation that is, or is capable of attaining, a height of at least 15 feet.
+Unincorporated Area: All lands and waters located within Door County which are located
+outside the municipal boundaries of a village or city.
+Use: The purpose or activity for which a parcel of land, or structure(s) thereon, is
+designed, arranged, intended, occupied, or maintained.
+Use, Accessory: A use subordinate to and customarily incidental to a permitted principal
+use of a lot and located on the same lot as the principal use.
+Use, Principal: The basic use of a lot or structure, or one of the basic uses of a lot or
+structure where more than one basic use exists on a lot. Principal uses are those listed as
+such in s. 2.05(3), table of principal uses.
+Use Permitted As A Special Exception: (Deleted: 24 Nov 1998; Ord. 33-98)
+Use, Temporary: A use which is conducted for a limited period of time within a calendar
+year. (Amended: 15 April 2014; Ord. 2014-05; Effective 27 May 2014)
+Use Consistent With Agricultural Use: (Deleted: 30 September 2010; Ord. 2010-13)
+Utility Facilities - Type A: (Amended: 30 Sept. 2010; Ord. 2010-13) (Amended: 29 Sept. 2015; Ord.
+2015-09; Effective 9 Nov. 2015) (Deleted: 23 May 2023; Ord. 2023-01)
+
+Utility Facilities - Type B: (Amended: 30 Sept. 2010; Ord. 2010-13) (Amended: 29 Sept. 2015; Ord.
+2015-09 Effective 9 Nov. 2015) (Deleted: 23 May 2023; Ord. 2023-01)
+
+Variance: An authorization, granted by the Board of Adjustment, to depart from the literal
+requirements of this Ordinance.
+Visible: For the purpose of sign regulation only, “’visible’ means the sign, or any part of
+the sign structure, can be seen from the main-traveled way of a highway by a person of
+normal visual acuity, regardless of whether the sign is designed, erected, or intended to be
+read from the main-traveled way.” (§Trans 201.02(12), Wis. Admin. Code) (Added: 29
+October 2019; Ord. 2019-13)
+
+Walkway: An unenclosed, unroofed exterior platform structure, with or without railings,
+not exceeding 60 inches wide. (Amended: 20 Sept. 2016; Ord. 2016-14)
+Door County Comprehensive Zoning Ordinance
+
+13-26
+
+DEFINITIONS 13.02
+Wetland: Those areas where water is at, near, or above the land surface long enough to
+be capable of supporting aquatic or hydrophytic vegetation and which have soils indicative
+of wet conditions.
+Woodland: Land covered with trees, not including orchards, tree plantations, or nursery
+trees. (Amended: 26 March 2019; Ord. 2019-02)
+Woodland Area: Any area that was a woodland on the effective date of this Ordinance.
+Yard: A required area on a lot, unoccupied by buildings and open to the sky, extending
+along a lot line to a specified depth or width.
+Yard, Front: A yard extending along an entire front lot line from the front lot line to the
+depth or width specified in the yard requirements for the applicable district.
+Yard, Rear: A yard extending along an entire rear lot line from the rear lot line to the
+depth or width as specified in the yard requirements for the applicable district.
+Yard, Side: A yard extending along an entire side lot line from the side lot line to the
+depth or width specified in the yard requirements for the applicable district.
+Commentary: It should be noted that on portions of lots side yards coincide with front yards and
+rear yards. This does not affect application of the provisions of this Ordinance, however.
+
+Zoning Administrator:
+An authorized representative of the Resource Planning
+Committee appointed by the County of Door for the purpose of carrying out the terms of
+this Ordinance.
+Zoning Map: The series of maps showing the location and boundaries of the zoning
+districts established by this Ordinance.
+Zoning Permit, Regular: A permit, issued by the Zoning Administrator, stating that a use
+or a structure, except a sign or use permitted as a conditional use, may be established,
+expanded, or enlarged subject to any conditions placed on the permit and the provisions of
+this ordinance.
+
+Door County Comprehensive Zoning Ordinance
+
+13-27
+
+COMMUNICATIONS SUPPORT STRUCTURES 14
+
+CHAPTER 14
+COMMUNICATIONS SUPPORT STRUCTURES AND RELATED FACILITIES
+(Created: 29 Sept. 2015; Ord. No. 2015-10; Effective 9 Nov. 2015)
+(Amended: 23 May 2017; Ord. No. 2017-03)
+(Amended: 26 March 2019; Ord. No. 2019-02)
+(Amended: 23 June 2020; Ord. No. 2020-07; Effective 3 August 2020)
+(Deleted: 23 May 2023; Ord. No. 2023-01)
+
+Door County Comprehensive Zoning Ordinance
+
+14-1
+
+APPENDIX 'A'
+
+APPENDIX 'A'
+Footnotes related to Exclusive Agricultural (EA) Zoning District, Table 2.05(3)(a)
+(Appendix 'A' added: 30 September 2010; Ord. 2010-13)
+
+Footnote
+17
+
+Explanation
+s.91.01(1)(d), Wis. Stats. - Accessory Use
+A business, activity, or enterprise, whether or not associated with an agricultural
+use, that is conducted by the owner or operator of a farm, and that employs no
+more than 4 full-time employees annually, and that does not impair or limit the
+current or future agricultural use of the farm or of other protected farmland that:
+1) Requires no buildings, structures, or improvements, or
+2) Utilizes a building, structure, or improvement that is an integral part of or is
+incidental to an agricultural use, or
+3) Is located within a farm residence.
+
+18
+
+Deleted: (11 December, 2012; Ord. 2012-25)
+
+19
+
+s.91.46(2), Wis. Stats.
+Manufactured Homes
+
+-
+
+Single Family Residences,
+
+Temporary
+
+This footnote distinguishes between farm residences (as defined by s. 91.01(19),
+Wis. Stats., below), which will require a regular zoning permit, and nonfarm
+residences, which will require a conditional use permit in accordance with s.
+91.46(2), Wis. Stats., for two different residential uses listed in the Door County
+Zoning Ordinance.
+Farm residence means any of the following structures located on a farm:
+(a) A single-family or duplex residence that is the only residential structure on the
+farm or is occupied by any of the following:
+1. An owner or operator of the farm.
+2. A parent or child of an owner or operator of the farm.
+3. An individual who earns more than 50 percent of his or her gross
+income from the farm.
+(b) A migrant labor camp that is certified under s.103.92.
+
+Door County Zoning Ordinance
+
+A-1
+
+APPENDIX 'A'
+
+20
+
+s.91.46(5), Wis. Stats. - Governmental, Institutional, Religious or Nonprofit
+Community Use
+A governmental, institutional, religious, or nonprofit community use shall require
+a conditional use permit and shall comply with all of the following:
+
+21
+
+(a)
+
+The use and its location in the farmland preservation zoning district are
+consistent with the purposes of the farmland preservation zoning district.
+
+(b)
+
+The use and its location in the farmland preservation zoning district are
+reasonable and appropriate, considering alternative locations, or are
+specifically approved under state or federal law.
+
+(c)
+
+The use is reasonably designed to minimize the conversion of land, at
+and around the site of the use, from agricultural use or open space use.
+
+(d)
+
+The use does not substantially impair or limit the current or future
+agricultural use of surrounding parcels of land that are zoned for or legally
+restricted to agricultural use.
+
+(e)
+
+Construction damage to land remaining in agricultural use is minimized
+and repaired, to the extent feasible.
+
+s.91.46(4), Wis. Stats. - Transportation, Communications, Pipeline, Electric
+Transmission, Utility, or Drainage Use
+A transportation, communications, pipeline, electric transmission, utility, or
+drainage use shall require a conditional use permit and shall comply with all of
+the following:
+(a)
+
+The use and its location in the farmland preservation zoning district are
+consistent with the purposes of the farmland preservation zoning district.
+
+(b)
+
+The use and its location in the farmland preservation zoning district are
+reasonable and appropriate, considering alternative locations, or are
+specifically approved under state or federal law.
+
+(c)
+
+The use is reasonably designed to minimize conversion of land, at and
+around the site of the use, from agricultural use or open space use.
+
+(d)
+
+The use does not substantially impair or limit the current or future
+agricultural use of surrounding parcels of land that are zoned for or legally
+restricted to agricultural use.
+
+(e)
+
+Construction damage to land remaining in agricultural use is minimized
+and repaired, to the extend feasible.
+OR
+
+s.44(1)(f), Wis. Stats. - Transportation, Utility, Communication, etc.
+
+Door County Zoning Ordinance
+
+A-2
+
+APPENDIX 'A'
+
+The following uses shall be considered permitted uses:
+A transportation, utility, communication, or other use that is required under state
+or federal law to be located in a specific place or that is authorized to be located
+in a specific place under a state or federal law that preempts the requirement of a
+conditional use permit for that use.
+22
+
+s.91.01(3), Wis. Stats. - Agriculture-related Use
+An agriculture-related use means any of the following:
+(a)
+
+An agricultural equipment dealership, facility providing agricultural
+supplies, facility for storing or processing agricultural products, or facility
+for processing agricultural wastes.
+
+Door County Zoning Ordinance
+
+A-3
+
+
