@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sold Land Heatmap</title>
+    <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="map-wrap">
+        <div id="map" aria-label="Sold land interactive map"></div>
+        <div class="map-tools" aria-label="Map display controls">
+          <button id="fitVisible" type="button" title="Fit visible parcels">Fit</button>
+          <label>
+            View
+            <select id="basemapSelect" aria-label="Basemap view">
+              <option value="street">Map</option>
+              <option value="satellite">Satellite</option>
+            </select>
+          </label>
+          <label><input id="toggleHeat" type="checkbox" checked> Heat</label>
+          <label><input id="togglePoints" type="checkbox" checked> Points</label>
+          <label><input id="toggleParcels" type="checkbox"> Parcels</label>
+        </div>
+      </section>
+
+      <aside class="side-panel">
+        <header class="panel-header">
+          <p class="eyebrow">Door County</p>
+          <h1>Sold Land Heatmap</h1>
+          <p id="dataStatus" class="data-status"></p>
+        </header>
+
+        <section class="filters" aria-label="Filters">
+          <label>
+            Search
+            <input id="searchInput" type="search" placeholder="MLS, PIN, town, zoning">
+          </label>
+          <div class="filter-grid">
+            <label>
+              Min acres
+              <input id="minAcres" type="number" min="0" step="0.1">
+            </label>
+            <label>
+              Max acres
+              <input id="maxAcres" type="number" min="0" step="0.1">
+            </label>
+            <label>
+              Min sold $
+              <input id="minPrice" type="number" min="0" step="1000">
+            </label>
+            <label>
+              Max sold $
+              <input id="maxPrice" type="number" min="0" step="1000">
+            </label>
+          </div>
+          <label>
+            Color by
+            <select id="colorMetric">
+              <option value="soldPrice">Sold price</option>
+              <option value="pricePerAcre">Price per acre</option>
+              <option value="acres">Acres</option>
+              <option value="daysOnMarket">Days on market</option>
+            </select>
+          </label>
+        </section>
+
+        <section class="summary" aria-label="Visible summary">
+          <div><strong id="visibleCount">0</strong><span>visible sales</span></div>
+          <div><strong id="medianPrice">$0</strong><span>median sold</span></div>
+          <div><strong id="medianPpa">$0</strong><span>median $/acre</span></div>
+        </section>
+
+        <section class="details" aria-label="Selected parcel details">
+          <h2>Selected Parcel</h2>
+          <div id="detailPanel" class="empty-state">Click a point or list row to view parcel details.</div>
+        </section>
+
+        <section class="results" aria-label="Sold parcel results">
+          <div class="results-header">
+            <h2>Sold Parcels</h2>
+            <button id="clearFilters" type="button">Clear</button>
+          </div>
+          <div id="resultsList" class="results-list"></div>
+        </section>
+      </aside>
+    </main>
+
+    <script src="vendor/leaflet/leaflet.js"></script>
+    <script src="data/sold_parcels.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

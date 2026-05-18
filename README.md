@@ -13,7 +13,7 @@ If that link returns 404, enable GitHub Pages once:
 1. Open the repository settings on GitHub.
 2. Go to **Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Choose branch **gh-pages** and folder **/**.
+4. Choose branch **main** and folder **/docs**.
 5. Save, then wait a minute or two and reopen the link above.
 
 If you do not want to enable Pages:
